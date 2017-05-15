@@ -27,12 +27,12 @@ public interface OnCarouselViewClickListener {
 
 public class MainActivity extend ActivityCompat implement OnCarouselViewClickListener {
 
-...
+        ...
 
-@Override
-public void onCarouselViewClick(int tag, int position) {
-  // do Something
-}
+        @Override
+        public void onCarouselViewClick(int tag, int position) {
+          // do Something
+        }
 
 }
     
