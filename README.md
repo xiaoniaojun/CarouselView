@@ -1,5 +1,6 @@
 # CarouselView
 A Carousel View use only one view
+只用一个单独的View实现轮播图。
 
 ## How to use
 
