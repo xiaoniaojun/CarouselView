@@ -47,7 +47,7 @@ public class MathQ {
     }
     
         public static void main(String[] args) {
-        p(0,20,"一条路线: ",0,false);
+        play(0,20,"一条路线: ",0,false);
         System.out.println("满足次数： " + count);
     }
 }
